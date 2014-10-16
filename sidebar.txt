@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ayo:home|Door43 (ayo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ayo|d43-ayo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ayo/archive/master.zip|d43-ayo.zip]]
+
+**Recent Changes**
+{{changes>ns = ayo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ayo|Ethnologue data]]
+
